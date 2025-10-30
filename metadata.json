@@ -1,0 +1,5 @@
+{
+  "name": "YouLoad",
+  "description": "A sleek web application interface designed for downloading YouTube videos. It allows users to input a video URL and simulates the analysis and download process. Note: Due to browser security restrictions, this application is a UI prototype and cannot perform actual file downloads or access the local file system to select a save folder.",
+  "requestFramePermissions": []
+}
